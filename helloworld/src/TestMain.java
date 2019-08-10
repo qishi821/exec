@@ -5,5 +5,7 @@ public class TestMain {
         System.out.println("add2");
         System.out.println("add4");
         System.out.println("add3");
+	System.out.println("add5");
+	System.out.println("add6");
     }
 }
