@@ -1,11 +1,5 @@
 public class TestMain {
     public static void main(String[] args) {
-        System.out.println("hello world update");
-        System.out.println("add1");
-        System.out.println("add2");
-        System.out.println("add4");
-        System.out.println("add3");
-	System.out.println("add5");
-	System.out.println("add6");
+        System.out.println("jjt");
     }
 }
